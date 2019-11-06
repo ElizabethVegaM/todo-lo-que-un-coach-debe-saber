@@ -10,7 +10,7 @@
 * [Pre admisión](#pre-admisión)
 * [Tareas que se deben realizar al recibir un grupo nuevo](#tareas-que-se-deben-realizar-al-recibir-un-grupo-nuevo)
 * [Cómo funciona el día a día de un coach en SCL](#cómo-funciona-el-día-a-día-de-un-coach-en-SCL)
-* [Chapter Coaches](#chapter-coaches)
+* [Hangouts FE](#chapter-coaches)
 * [Dev Chapter](#dev-chapter)
 * [UX Chapter](#UX-Chapter)
 
